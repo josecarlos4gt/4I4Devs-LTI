@@ -4,6 +4,7 @@ dist/
 build/
 .env
 .env.*
+backend/.env
 
 # Logs
 logs
